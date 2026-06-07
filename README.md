@@ -1,15 +1,22 @@
 <!-- ===== BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Parth%20Mishra&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Generative%20%26%20Agentic%20Systems&descSize=18&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,45:3b82f6,100:06b6d4&height=230&section=header&text=Parth%20Mishra&fontColor=ffffff&fontSize=54&animation=fadeIn&fontAlignY=34&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Generative%20%26%20Agentic%20Systems%20%C2%B7%20Finance%20%C3%97%20AI&descSize=17&descAlignY=55" />
 
 <!-- ===== TYPING INTRO ===== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=AI+%26+ML+Engineer;Generative+%26+Agentic+Systems;On-device+%26+Edge+ML;Finance+%26+Quantitative+Modeling)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&height=45&lines=Building+generative+%26+agentic+AI;Shipping+models+that+actually+run+in+prod;Tinkering+with+on-device+%26+edge+ML;Where+machine+learning+meets+markets)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://github.com/perrysolid"><img src="https://komarev.com/ghpvc/?username=perrysolid&label=Profile%20views&color=58A6FF&style=flat-square" alt="profile views" /></a>
-<img src="https://img.shields.io/badge/Focus-Agentic%20%26%20Generative%20AI-58A6FF?style=flat-square" alt="focus" />
+<!-- social / contact -->
+<a href="https://www.linkedin.com/in/PLACEHOLDER"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:parthstudies1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/perrysolid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<a href="https://github.com/perrysolid"><img src="https://komarev.com/ghpvc/?username=perrysolid&label=Profile%20views&color=3b82f6&style=flat-square" alt="profile views" /></a>
+<img src="https://img.shields.io/badge/Focus-Agentic%20%26%20Generative%20AI-3b82f6?style=flat-square" alt="focus" />
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea043?style=flat-square" alt="open to collaboration" />
 
 </div>
@@ -17,16 +24,16 @@
 <br/>
 
 <!-- ===== ABOUT ===== -->
-## 👨‍💻 About
+## 👋 About me
 
-I'm Parth, an AI/ML engineer working mainly on **generative and agentic systems** — building models and pipelines that can reason over a problem, use tools, and carry out multi-step tasks. I care as much about the engineering as the modeling: making things reliable, efficient, and actually deployable.
+I'm Parth — an AI/ML engineer who likes taking an idea from a messy notebook to something that actually runs in production. Most of my work sits in **generative and agentic AI**: building models and pipelines that can reason through a problem, call the right tools, and see a multi-step task through. I tend to care just as much about the parts that keep a system dependable — latency, reliability, clean interfaces — as I do about the modeling itself.
 
-Alongside AI, I have a strong interest in **finance and quantitative modeling**. The way you reason about markets and the way you reason about machine learning have a lot in common, and I enjoy working where the two overlap.
+I also spend a fair bit of time on **finance and quantitative modeling**, and I've found the mindset carries over well. Both reward clear assumptions, honest measurement, and knowing when a model is quietly fooling you. Working where those two worlds overlap is where I have the most fun.
 
 - 🔭 Currently focused on **agentic AI** and **on-device / edge ML**
 - 🌱 Always learning across applied ML, systems design, and quantitative finance
-- 💬 Happy to talk about **LLM agents, edge ML, or applied machine learning**
-- 📫 Reach me through GitHub
+- 💬 Ask me about **LLM agents, edge ML, or applied machine learning**
+- 📫 Best way to reach me is via LinkedIn or email above
 
 <!-- ===== WHAT I'M INTO ===== -->
 ## 🧭 What I'm working on
@@ -97,24 +104,6 @@ Contributed to product development in a small team, taking on a range of respons
 
 </div>
 
-<!-- ===== TROPHIES ===== -->
-## 🎖️ Trophy Case
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=perrysolid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<!-- ===== ACTIVITY GRAPH ===== -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=perrysolid&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 <!-- ===== SNAKE ===== -->
 <div align="center">
 
@@ -123,4 +112,4 @@ Contributed to product development in a small team, taking on a range of respons
 </div>
 
 <!-- ===== FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:3b82f6,100:6366f1&height=120&section=footer" />
