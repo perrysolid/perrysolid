@@ -1,6 +1,6 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=210&section=header&text=Parth%20Mishra&fontColor=ffffff&fontSize=52&fontAlignY=40&animation=fadeIn" />
 
-# Parth Mishra
+<div align="center">
 
 **AI / ML Engineer — Generative & Agentic Systems · Finance × AI**
 
