@@ -4,34 +4,33 @@
 <!-- ===== TYPING INTRO ===== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=still+in+the+%E2%80%9Cprocess+of+learning%E2%80%9D+phase+%E2%80%94+forever;tinkering+with+generative+%26+agentic+AI;part+engineer%2C+part+finance+nerd;building+things+that+probably+shouldn%27t+work+yet)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+engineer;working+on+generative+%26+agentic+systems;interested+in+finance+and+quantitative+modeling)](https://git.io/typing-svg)
 
 </div>
 
 <!-- ===== ABOUT ===== -->
-## hey, I'm Parth 👋
+## About
 
-I'm a big believer that the fun part is the *figuring-it-out*, not the finish line — so I spend most of my time happily mid-learning-curve. These days that curve is shaped like **generative and agentic AI**: I like building systems that reason, act, and occasionally surprise me.
+Hi, I'm Parth. I work primarily on generative and agentic AI, building systems that can reason over a problem, use tools, and carry out multi-step tasks. I enjoy the engineering side of this as much as the modeling: making things reliable, efficient, and actually deployable.
 
-On the side, I'm weirdly into **financial acumen** — turns out modeling markets and modeling neural nets scratch the same itch. If it involves a clever system and a spreadsheet, I'm in.
+Outside of AI, I have a strong interest in finance and quantitative modeling. I find that the way you think about markets and the way you think about machine learning have a lot in common, and I like working at the point where the two overlap.
 
 ```yaml
-currently: building agentic + on-device AI
-learning:   always (it's a feature, not a bug)
-into:       generative AI · agents · finance · clean systems
-ask me about: LLM agents, edge ML, or why I have 6 half-finished side projects
+focus:    agentic and on-device AI
+interests: generative AI, autonomous agents, finance, system design
+ask me about: LLM agents, edge ML, applied machine learning
 ```
 
 <!-- ===== WHAT I'M INTO ===== -->
-## 🧪 what I'm poking at right now
+## What I'm working on
 
-- 🤖 **agentic AI** — multi-step agents, tool use, and getting them to fail gracefully
-- 🧠 **generative AI** — building with it, breaking it, learning where the seams are
-- 📱 **on-device / edge ML** — squeezing real models onto real phones
-- 💸 **finance × AI** — where quant thinking meets machine learning
+- **Agentic AI** — multi-step agents, tool use, and reliable orchestration
+- **Generative AI** — applied work across text and vision models
+- **On-device / edge ML** — running real models efficiently on mobile hardware
+- **Finance + AI** — applying quantitative thinking to machine learning problems
 
 <!-- ===== TECH STACK ===== -->
-## 🛠️ tools I reach for
+## Tools and technologies
 
 <div align="center">
 
@@ -40,32 +39,30 @@ ask me about: LLM agents, edge ML, or why I have 6 half-finished side projects
 </div>
 
 <!-- ===== EXPERIENCE ===== -->
-## 💼 where I've been building
+## Experience
 
 **AI Intern · COEDSAI** &nbsp;·&nbsp; *Jun – Dec*
-Worked hands-on across the AI stack, shipping and iterating on real model-driven features rather than just notebooks.
+Worked across the AI stack, building and iterating on model-driven features and taking them beyond the prototype stage.
 
-**Intern · India Active** *(a startup founded by BITS Pilani folks)*
-Helped build product at an early-stage team — the kind of place where you wear several hats and learn fast.
+**Intern · India Active** *(an early-stage startup founded by BITS Pilani alumni)*
+Contributed to product development in a small team, taking on a range of responsibilities across the project.
 
-**Open Source** — active contributor; I like leaving codebases a little better than I found them.
+**Open Source** — Regular contributor to open-source projects.
 
-<!-- ===== HIGHLIGHTS (understated) ===== -->
-## ✨ a few things along the way
-
-<sub>not the headline — just some moments I'm quietly proud of, newest first</sub>
+<!-- ===== HIGHLIGHTS ===== -->
+## Selected achievements
 
 | | |
 |---|---|
-| 🥇 | **TensorX Hackathon** (Poonawalla Fincorp) — *Winner*, out of 20,000+ teams |
-| 🎯 | **ZS Campus Beats** — top 100 of 5,000+ teams |
-| 🏁 | **Smart India Hackathon** — finalist, top 2,000 of 150,000+ teams |
-| 🔬 | **Samsung PRISM** — finalist |
-| 💰 | **FineQuity** (finance budgeting case comp, SRCC) — *Winner* |
-| 🎥 | **CVPR VGBE** — 4th, image-to-video consistent generation |
+| 🥇 | **TensorX Hackathon** (Poonawalla Fincorp) — Winner, out of 20,000+ teams |
+| 🎯 | **ZS Campus Beats** — Top 100 of 5,000+ teams |
+| 🏁 | **Smart India Hackathon** — Finalist, top 2,000 of 150,000+ teams |
+| 🔬 | **Samsung PRISM** — Finalist |
+| 💰 | **FineQuity** (finance budgeting case competition, SRCC) — Winner |
+| 🎥 | **CVPR VGBE** — 4th place, image-to-video consistent generation |
 
 <!-- ===== STATS ===== -->
-## 📊 the receipts
+## GitHub stats
 
 <div align="center">
 
