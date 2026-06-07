@@ -14,7 +14,7 @@
 
 ## About
 
-I'm Parth, an AI/ML engineer who likes taking an idea from a rough notebook to something that actually runs in production. Most of my work is in generative and agentic AI: building models and pipelines that can reason through a problem, call the right tools, and see a multi-step task through. I care as much about the parts that keep a system dependable — latency, reliability, clean interfaces — as I do about the modeling itself.
+I'm Parth, an AI/ML engineer who likes taking an idea from a rough notebook to something that actually runs in production. Most of my work is in generative and agentic AI: building models and pipelines that can reason through a problem, call the right tools, and see a multi-step task through. I care as much about the parts that keep a system dependable: latency, reliability, clean interfaces  as I do about the modeling itself.
 
 I also spend a fair amount of time on finance and quantitative modeling, and the mindset carries over well. Both reward clear assumptions, honest measurement, and knowing when a model is quietly fooling you. Working where those two areas overlap is where I do my best work.
 
