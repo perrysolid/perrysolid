@@ -75,6 +75,6 @@ Contributed to product development in a small team, taking on a range of respons
 
 <div align="center">
 
-![snake animation](https://github.com/perrysolid/perrysolid/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fperrysolid%3Fy%3D2026&query=%24.total.2026&label=Contributions%20in%202026&color=2ea043&style=for-the-badge&logo=github" alt="Contributions in 2026" />
 
 </div>
