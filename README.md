@@ -36,16 +36,7 @@ I also spend a fair amount of time on finance and quantitative modeling, and the
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,react,pytorch,tensorflow,fastapi,docker,linux,git,vercel&theme=dark&perline=10" alt="Tech stack" /></a>
 
 </div>
 
@@ -78,7 +69,5 @@ Contributed to product development in a small team, taking on a range of respons
 <img src="https://komarev.com/ghpvc/?username=perrysolid&style=for-the-badge&color=8957e5&label=PROFILE+VIEWS" alt="Profile views" />
 &nbsp;
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fperrysolid%3Fy%3D2026&query=%24.total.2026&label=CONTRIBUTIONS%20%E2%80%982026&color=2ea043&style=for-the-badge&logo=github&logoColor=white" alt="Contributions in 2026" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/perrysolid?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=1f6feb" alt="Followers" />
 
 </div>
