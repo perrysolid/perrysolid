@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/PLACEHOLDER"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:parthmishra2504@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/perrysolid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/perrysolid"><img src="https://komarev.com/ghpvc/?username=perrysolid&style=flat-square&color=8957e5&label=Profile+views" alt="Profile views" /></a>
 
 </div>
 
@@ -65,8 +66,6 @@ Contributed to product development in a small team, taking on a range of respons
 ## GitHub Activity
 
 <div align="center">
-
-<a href="https://github.com/perrysolid"><img src="https://komarev.com/ghpvc/?username=perrysolid&style=flat-square&color=8957e5&label=Profile+views" alt="Profile views" /></a>
 
 <br/><br/>
 
