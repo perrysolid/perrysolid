@@ -66,8 +66,10 @@ Contributed to product development in a small team, taking on a range of respons
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=perrysolid&style=for-the-badge&color=8957e5&label=PROFILE+VIEWS" alt="Profile views" />
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fperrysolid%3Fy%3D2026&query=%24.total.2026&label=CONTRIBUTIONS%20%E2%80%982026&color=2ea043&style=for-the-badge&logo=github&logoColor=white" alt="Contributions in 2026" />
+<a href="https://github.com/perrysolid"><img src="https://komarev.com/ghpvc/?username=perrysolid&style=flat-square&color=8957e5&label=Profile+views" alt="Profile views" /></a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=perrysolid&hide_border=true&background=1C2128&stroke=30363D&ring=E3B341&fire=E3B341&currStreakNum=E3B341&sideNums=E3B341&currStreakLabel=FB8F8F&sideLabels=E3B341&dates=FB8F8F" alt="GitHub contributions" />
 
 </div>
