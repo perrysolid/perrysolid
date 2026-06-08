@@ -51,7 +51,7 @@ I also spend a fair amount of time on finance and quantitative modeling, and the
 
 ## Experience
 
-**AI Intern · COEDSAI** &nbsp;·&nbsp; *Jun – Dec*
+**AI Intern · CoDSAI** &nbsp;·&nbsp; *Jun – Dec*
 Worked across the AI stack, building and iterating on model-driven features and taking them beyond the prototype stage.
 
 **Intern · India Active** *(an early-stage startup founded by BITS Pilani alumni)*
@@ -63,12 +63,13 @@ Contributed to product development in a small team, taking on a range of respons
 
 | | |
 |---|---|
-| 🥇 | **TensorX Hackathon** (Poonawalla Fincorp) — Winner, out of 20,000+ teams |
+| 🥇 | **TenzorX Hackathon** (Poonawalla Fincorp) — Winner, out of 20,000+ teams |
 | 🎯 | **ZS Campus Beats** — Top 100 of 5,000+ teams |
 | 🏁 | **Smart India Hackathon** — Finalist, top 2,000 of 150,000+ teams |
 | 🔬 | **Samsung PRISM** — Finalist |
 | 💰 | **FineQuity** (finance budgeting case competition, SRCC) — Winner |
-| 🎥 | **CVPR VGBE** — 4th place, image-to-video consistent generation |
+| 🎥 | **CVPR VGBE** — 5th place, image-to-video consistent generation |
+| 🎯 | **Axis Bank Hackathon** — Semi-Finalist |
 
 ## GitHub Activity
 
