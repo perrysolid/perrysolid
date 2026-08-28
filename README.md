@@ -65,6 +65,7 @@ Contributed to product development in a small team, taking on a range of respons
 
 **PRO_SPEEDY: Achieving Speed with Precision Using a Lightweight CNN–Mobile Vision Transformer Model for Brain Tumor Classification**
 Parth Mishra, Anushka Nehra, Sandeep Verma &nbsp;·&nbsp; *Jun 2025 – Nov 2025*
+NEW2AN 2025 / ruSMART 2025, Abu Dhabi — Springer *Lecture Notes in Computer Science*, Part I, pp. 257–273
 
 ## Selected Achievements
 
