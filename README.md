@@ -59,6 +59,7 @@ Contributed to product development in a small team, taking on a range of respons
 | 🥉 | **NHAI Hackathon 7.0** — 3rd place, for an offline facial recognition and liveness detection module for Datalake 3.0 |
 | 🎯 | **ZS Campus Beats** — Top 100 of 5,000+ teams |
 | 🏁 | **Smart India Hackathon** — Finalist, top 2,000 of 150,000+ teams |
+| 💻 | **Google BigCode 2026** — Top 1500 |
 | 🔬 | **Samsung PRISM** — Finalist |
 | 💰 | **FineQuity** (finance budgeting case competition, SRCC) — Winner |
 | 🎥 | **CVPR VGBE** — 5th place, image-to-video consistent generation |
