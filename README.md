@@ -51,7 +51,7 @@ I also spend a fair amount of time on finance and quantitative modeling, and the
 **AI Intern · CoDSAI** &nbsp;·&nbsp; *Jun 2026 – Jul 2026*
 Worked across the AI stack, building and iterating on model-driven features and taking them beyond the prototype stage.
 
-**Data Science Intern · Centre of Excellence, Data Science and Artificial Intelligence** &nbsp;·&nbsp; *Jul 2025 – Feb 2026*
+**Data Science Intern · Centre of Excellence, Data Science and Artificial Intelligence** &nbsp;·&nbsp; *Jul 2025 – Dec 2025*
 *Thapar Institute of Engineering and Technology, Patiala*
 - Framed structured questionnaires and collected interaction-level data from *Nasha Mukti Kendra* stakeholders to map user needs, awareness gaps, and common query patterns for a drug-abuse awareness chatbot.
 - Proposed a Corrective RAG (CRAG) pipeline that grades retrieved passages against curated health resources before generation, improving the factual grounding, safety, and reliability of chatbot answers.
