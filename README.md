@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**AI / ML Engineer — Generative & Agentic Systems · Finance × AI**
+<a href="https://github.com/perrysolid"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=1F6FEB&center=true&vCenter=true&random=false&width=620&height=45&lines=AI+%2F+ML+Engineer;Generative+%26+Agentic+Systems;On-device+%2F+Edge+ML;Finance+%C3%97+AI" alt="AI / ML Engineer — Generative &amp; Agentic Systems · Finance × AI" /></a>
 
 <a href="https://www.linkedin.com/in/parthmishra0205/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:parthmishra2504@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
