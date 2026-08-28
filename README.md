@@ -61,6 +61,11 @@ Contributed to product development in a small team, taking on a range of respons
 
 **Open Source** — Regular contributor to open-source projects.
 
+## Research
+
+**PRO_SPEEDY: Achieving Speed with Precision Using a Lightweight CNN–Mobile Vision Transformer Model for Brain Tumor Classification**
+Parth Mishra, Anushka Nehra, Sandeep Verma &nbsp;·&nbsp; *Jun 2025 – Nov 2025*
+
 ## Selected Achievements
 
 | | |
