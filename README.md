@@ -51,6 +51,9 @@ Worked across the AI stack, building and iterating on model-driven features and 
 - Framed structured questionnaires and collected interaction-level data from *Nasha Mukti Kendra* stakeholders to map user needs, awareness gaps, and common query patterns for a drug-abuse awareness chatbot.
 - Proposed a Corrective RAG (CRAG) pipeline that grades retrieved passages against curated health resources before generation, improving the factual grounding, safety, and reliability of chatbot answers.
 
+**Project Intern · Centre of Excellence, Data Science and Artificial Intelligence** &nbsp;·&nbsp; *Jun 2026 – Present*
+*Thapar Institute × University of Queensland collaboration*
+
 **Intern · India Active** *(an early-stage startup founded by BITS Pilani alumni)*
 Contributed to product development in a small team, taking on a range of responsibilities across the project.
 
