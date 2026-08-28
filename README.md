@@ -48,9 +48,6 @@ I also spend a fair amount of time on finance and quantitative modeling, and the
 - Contributed to “AI-Driven Modeling and Optimization of Breast Cancer Detection,” a joint Thapar–UQ research project.
 - Explored mammography imaging and deep learning models for volumetric 3D mammography — slice-level and full-volume analysis — for early breast cancer detection.
 
-**AI Intern · CoDSAI** &nbsp;·&nbsp; *Jun 2026 – Jul 2026*
-Worked across the AI stack, building and iterating on model-driven features and taking them beyond the prototype stage.
-
 **Data Science Intern · Centre of Excellence, Data Science and Artificial Intelligence** &nbsp;·&nbsp; *Jul 2025 – Dec 2025*
 *Thapar Institute of Engineering and Technology, Patiala*
 - Framed structured questionnaires and collected interaction-level data from *Nasha Mukti Kendra* stakeholders to map user needs, awareness gaps, and common query patterns for a drug-abuse awareness chatbot.
