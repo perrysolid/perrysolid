@@ -56,6 +56,7 @@ Contributed to product development in a small team, taking on a range of respons
 | | |
 |---|---|
 | 🥇 | **TenzorX Hackathon** (Poonawalla Fincorp) — Winner, out of 20,000+ teams |
+| 🥉 | **NHAI Hackathon 7.0** — 3rd place, for an offline facial recognition and liveness detection module for Datalake 3.0 |
 | 🎯 | **ZS Campus Beats** — Top 100 of 5,000+ teams |
 | 🏁 | **Smart India Hackathon** — Finalist, top 2,000 of 150,000+ teams |
 | 🔬 | **Samsung PRISM** — Finalist |
