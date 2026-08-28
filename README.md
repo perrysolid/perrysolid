@@ -53,8 +53,8 @@ I also spend a fair amount of time on finance and quantitative modeling, and the
 - Framed structured questionnaires and collected interaction-level data from *Nasha Mukti Kendra* stakeholders to map user needs, awareness gaps, and common query patterns for a drug-abuse awareness chatbot.
 - Proposed a Corrective RAG (CRAG) pipeline that grades retrieved passages against curated health resources before generation, improving the factual grounding, safety, and reliability of chatbot answers.
 
-**Intern · India Active** *(an early-stage startup founded by BITS Pilani alumni)*
-Contributed to product development in a small team, taking on a range of responsibilities across the project.
+**Intern · India Active** *(an early-stage startup founded by BITS Pilani alumni)* &nbsp;·&nbsp; *Present*
+Contributing to product development in a small team, taking on a range of responsibilities across the project.
 
 **Open Source** — Regular contributor to open-source projects.
 
