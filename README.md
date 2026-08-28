@@ -70,6 +70,7 @@ NEW2AN 2025 / ruSMART 2025, Abu Dhabi — Springer *Lecture Notes in Computer Sc
 <a href="https://doi.org/10.1007/978-3-032-19978-2_19"><img src="https://img.shields.io/badge/DOI-10.1007%2F978--3--032--19978--2__19-1f6feb?style=flat-square&logo=doi&logoColor=white" alt="DOI" /></a>
 
 - Lead-authored; accepted at NEW2AN 2025 and published in Springer LNCS.
+- Designed a hybrid architecture combining **ResNet-18** and **MobileViT**, reaching **99.1% accuracy** on brain tumor classification while keeping the model lightweight and fast.
 
 ## Selected Achievements
 
