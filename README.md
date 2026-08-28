@@ -43,7 +43,7 @@ I also spend a fair amount of time on finance and quantitative modeling, and the
 
 ## Experience
 
-**AI Intern · CoDSAI** &nbsp;·&nbsp; *Jun – Dec*
+**AI Intern · CoDSAI** &nbsp;·&nbsp; *Jun 2026 – Jul 2026*
 Worked across the AI stack, building and iterating on model-driven features and taking them beyond the prototype stage.
 
 **Intern · India Active** *(an early-stage startup founded by BITS Pilani alumni)*
