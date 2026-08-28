@@ -63,6 +63,7 @@ Contributed to product development in a small team, taking on a range of respons
 | 🔬 | **Samsung PRISM** — Finalist |
 | 💰 | **FineQuity** (finance budgeting case competition, SRCC) — Winner |
 | 🎥 | **CVPR VGBE** — 5th place, image-to-video consistent generation |
+| 🛒 | **Flipkart GRiD 2026** — Semi-Finalist |
 | 🎯 | **Axis Bank Hackathon** — Semi-Finalist |
 
 ## GitHub Activity
