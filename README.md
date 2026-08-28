@@ -67,6 +67,8 @@ Contributed to product development in a small team, taking on a range of respons
 Parth Mishra, Anushka Nehra, Sandeep Verma &nbsp;·&nbsp; *Jun 2025 – Nov 2025*
 NEW2AN 2025 / ruSMART 2025, Abu Dhabi — Springer *Lecture Notes in Computer Science*, Part I, pp. 257–273
 
+<a href="https://doi.org/10.1007/978-3-032-19978-2_19"><img src="https://img.shields.io/badge/DOI-10.1007%2F978--3--032--19978--2__19-1f6feb?style=flat-square&logo=doi&logoColor=white" alt="DOI" /></a>
+
 ## Selected Achievements
 
 | | |
