@@ -54,6 +54,7 @@ Worked across the AI stack, building and iterating on model-driven features and 
 **Project Intern · Centre of Excellence, Data Science and Artificial Intelligence** &nbsp;·&nbsp; *Jun 2026 – Present*
 *Thapar Institute × University of Queensland collaboration*
 - Contributing to “AI-Driven Modeling and Optimization of Breast Cancer Detection,” a joint Thapar–UQ research project.
+- Exploring mammography imaging and deep learning models for volumetric 3D mammography — slice-level and full-volume analysis — for early breast cancer detection.
 
 **Intern · India Active** *(an early-stage startup founded by BITS Pilani alumni)*
 Contributed to product development in a small team, taking on a range of responsibilities across the project.
